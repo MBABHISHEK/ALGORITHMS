@@ -1,5 +1,6 @@
 /*this program omputes the binomial coefficient with dynamic programming*/
 /*formula used is c(n,k)=c(n-1,k-1)+c(n-1,k)*/
+//which computes
 
 
 #include<stdio.h>
